@@ -567,17 +567,12 @@ Currently it is turned off by using #ifdef _USE_PLUGIN in the codes and if (_USE
 
  #environment and compiler setup
 
- -$ sudo apt-get install build-essential 
- -$ sudo apt-get install ninja-build
-
+ -$ sudo apt-get install -y build-essential ninja-build
+ 
  #main dependency libraries installation:
 
- -$ sudo apt-get install libboost-system-dev
- -$ sudo apt-get install libv8-dev
- -$ sudo apt-get install librocksdb-dev
- -$ sudo apt-get install libzmq3-dev
-
-  
+sudo apt-get install -y libboost-system-dev libv8-dev librocksdb-dev libzmq3-dev
+   
   Check #How to Build section for compilation and binary creation
 
 
