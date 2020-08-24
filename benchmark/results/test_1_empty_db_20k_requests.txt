@@ -1,0 +1,23 @@
+httperf --hog --client=0/1 --server=192.168.9.142 --port=18080 --uri=/getall?keys=u* --rate=2000 --send-buffer=4096 --recv-buffer=16384 --method=GET --num-conns=20000 --num-calls=1
+Maximum connect burst length: 30
+
+Total: connections 20000 requests 20000 replies 20000 test-duration 9.999 s
+
+Connection rate: 2000.1 conn/s (0.5 ms/conn, <=41 concurrent connections)
+Connection time [ms]: min 0.1 avg 0.4 max 22.7 median 0.5 stddev 1.2
+Connection time [ms]: connect 0.1
+Connection length [replies/conn]: 1.000
+
+Request rate: 2000.1 req/s (0.5 ms/req)
+Request size [B]: 80.0
+
+Reply rate [replies/s]: min 1999.4 avg 1999.4 max 1999.4 stddev 0.0 (1 samples)
+Reply time [ms]: response 0.4 transfer 0.0
+Reply size [B]: header 126.0 content 13.0 footer 0.0 (total 139.0)
+Reply status: 1xx=0 2xx=20000 3xx=0 4xx=0 5xx=0
+
+CPU time [s]: user 2.05 system 7.82 (user 20.5% system 78.2% total 98.7%)
+Net I/O: 427.8 KB/s (3.5*10^6 bps)
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0

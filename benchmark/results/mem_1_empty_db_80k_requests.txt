@@ -1,0 +1,120 @@
+2081:   ./ocv_microservice_crow
+00005582fb4ec000    708K r-x-- ocv_microservice_crow
+00005582fb79c000     16K r---- ocv_microservice_crow
+00005582fb7a0000      4K rw--- ocv_microservice_crow
+00005582fcb2f000   2752K rw---   [ anon ]
+00007f1fc4000000   1076K rw---   [ anon ]
+00007f1fc410d000  64460K -----   [ anon ]
+00007f1fc8000000   1104K rw---   [ anon ]
+00007f1fc8114000  64432K -----   [ anon ]
+00007f1fcc000000   1084K rw---   [ anon ]
+00007f1fcc10f000  64452K -----   [ anon ]
+00007f1fd07f9000      4K -----   [ anon ]
+00007f1fd07fa000   8192K rw---   [ anon ]
+00007f1fd0ffa000      4K -----   [ anon ]
+00007f1fd0ffb000   8192K rw---   [ anon ]
+00007f1fd17fb000      4K -----   [ anon ]
+00007f1fd17fc000   8192K rw---   [ anon ]
+00007f1fd1ffc000      4K -----   [ anon ]
+00007f1fd1ffd000   8192K rw---   [ anon ]
+00007f1fd4000000   1080K rw---   [ anon ]
+00007f1fd410e000  64456K -----   [ anon ]
+00007f1fd8000000   1124K rw---   [ anon ]
+00007f1fd8119000  64412K -----   [ anon ]
+00007f1fdc000000    132K rw---   [ anon ]
+00007f1fdc021000  65404K -----   [ anon ]
+00007f1fe4000000    132K rw---   [ anon ]
+00007f1fe4021000  65404K -----   [ anon ]
+00007f1fe81db000      4K -----   [ anon ]
+00007f1fe81dc000   8192K rw---   [ anon ]
+00007f1fe89dc000      4K -----   [ anon ]
+00007f1fe89dd000   8192K rw---   [ anon ]
+00007f1fe91dd000      4K -----   [ anon ]
+00007f1fe91de000   8192K rw---   [ anon ]
+00007f1fe99de000      4K -----   [ anon ]
+00007f1fe99df000   8192K rw---   [ anon ]
+00007f1fea1df000    500K r-x-- libnorm.so.1.0.0
+00007f1fea25c000   2048K ----- libnorm.so.1.0.0
+00007f1fea45c000      8K r---- libnorm.so.1.0.0
+00007f1fea45e000      4K rw--- libnorm.so.1.0.0
+00007f1fea45f000    704K rw---   [ anon ]
+00007f1fea50f000    284K r-x-- libpgm-5.2.so.0.0.122
+00007f1fea556000   2044K ----- libpgm-5.2.so.0.0.122
+00007f1fea755000      4K r---- libpgm-5.2.so.0.0.122
+00007f1fea756000      4K rw--- libpgm-5.2.so.0.0.122
+00007f1fea757000     16K rw---   [ anon ]
+00007f1fea75b000    320K r-x-- libsodium.so.23.1.0
+00007f1fea7ab000   2044K ----- libsodium.so.23.1.0
+00007f1fea9aa000      4K r---- libsodium.so.23.1.0
+00007f1fea9ab000      4K rw--- libsodium.so.23.1.0
+00007f1fea9ac000   1652K r-x-- libm-2.27.so
+00007f1feab49000   2044K ----- libm-2.27.so
+00007f1fead48000      4K r---- libm-2.27.so
+00007f1fead49000      4K rw--- libm-2.27.so
+00007f1fead4a000     60K r-x-- libbz2.so.1.0.4
+00007f1fead59000   2044K ----- libbz2.so.1.0.4
+00007f1feaf58000      4K r---- libbz2.so.1.0.4
+00007f1feaf59000      4K rw--- libbz2.so.1.0.4
+00007f1feaf5a000    112K r-x-- libz.so.1.2.11
+00007f1feaf76000   2044K ----- libz.so.1.2.11
+00007f1feb175000      4K r---- libz.so.1.2.11
+00007f1feb176000      4K rw--- libz.so.1.2.11
+00007f1feb177000    144K r-x-- libgflags.so.2.2.1
+00007f1feb19b000   2044K ----- libgflags.so.2.2.1
+00007f1feb39a000      4K r---- libgflags.so.2.2.1
+00007f1feb39b000      4K rw--- libgflags.so.2.2.1
+00007f1feb39c000     28K r-x-- libsnappy.so.1.1.7
+00007f1feb3a3000   2044K ----- libsnappy.so.1.1.7
+00007f1feb5a2000      4K r---- libsnappy.so.1.1.7
+00007f1feb5a3000      4K rw--- libsnappy.so.1.1.7
+00007f1feb5a4000     28K r-x-- librt-2.27.so
+00007f1feb5ab000   2044K ----- librt-2.27.so
+00007f1feb7aa000      4K r---- librt-2.27.so
+00007f1feb7ab000      4K rw--- librt-2.27.so
+00007f1feb7ac000   1948K r-x-- libc-2.27.so
+00007f1feb993000   2048K ----- libc-2.27.so
+00007f1febb93000     16K r---- libc-2.27.so
+00007f1febb97000      8K rw--- libc-2.27.so
+00007f1febb99000     16K rw---   [ anon ]
+00007f1febb9d000     92K r-x-- libgcc_s.so.1
+00007f1febbb4000   2044K ----- libgcc_s.so.1
+00007f1febdb3000      4K r---- libgcc_s.so.1
+00007f1febdb4000      4K rw--- libgcc_s.so.1
+00007f1febdb5000   1508K r-x-- libstdc++.so.6.0.25
+00007f1febf2e000   2048K ----- libstdc++.so.6.0.25
+00007f1fec12e000     40K r---- libstdc++.so.6.0.25
+00007f1fec138000      8K rw--- libstdc++.so.6.0.25
+00007f1fec13a000     16K rw---   [ anon ]
+00007f1fec13e000     16K r-x-- libboost_system.so.1.65.1
+00007f1fec142000   2044K ----- libboost_system.so.1.65.1
+00007f1fec341000      4K r---- libboost_system.so.1.65.1
+00007f1fec342000      4K rw--- libboost_system.so.1.65.1
+00007f1fec343000    588K r-x-- libzmq.so.5.1.5
+00007f1fec3d6000   2048K ----- libzmq.so.5.1.5
+00007f1fec5d6000     24K r---- libzmq.so.5.1.5
+00007f1fec5dc000      4K rw--- libzmq.so.5.1.5
+00007f1fec5dd000   3920K r-x-- libv8.so.3.14.5
+00007f1fec9b1000   2048K ----- libv8.so.3.14.5
+00007f1fecbb1000    120K r---- libv8.so.3.14.5
+00007f1fecbcf000     20K rw--- libv8.so.3.14.5
+00007f1fecbd4000     12K rw---   [ anon ]
+00007f1fecbd7000   5524K r-x-- librocksdb.so.5.8.8
+00007f1fed13c000   2044K ----- librocksdb.so.5.8.8
+00007f1fed33b000     64K r---- librocksdb.so.5.8.8
+00007f1fed34b000      4K rw--- librocksdb.so.5.8.8
+00007f1fed34c000     76K rw---   [ anon ]
+00007f1fed35f000    104K r-x-- libpthread-2.27.so
+00007f1fed379000   2044K ----- libpthread-2.27.so
+00007f1fed578000      4K r---- libpthread-2.27.so
+00007f1fed579000      4K rw--- libpthread-2.27.so
+00007f1fed57a000     16K rw---   [ anon ]
+00007f1fed57e000    156K r-x-- ld-2.27.so
+00007f1fed77b000     60K rw---   [ anon ]
+00007f1fed7a5000      4K r---- ld-2.27.so
+00007f1fed7a6000      4K rw--- ld-2.27.so
+00007f1fed7a7000      4K rw---   [ anon ]
+00007ffc13388000    132K rw---   [ stack ]
+00007ffc133d4000     12K r----   [ anon ]
+00007ffc133d7000      8K r-x--   [ anon ]
+ffffffffff600000      4K r-x--   [ anon ]
+ total           581044K
